@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chase your Love</string>
+    <string name="textNoPokemon">No Man found</string>
+    <string name="textMyPokemons">My Men</string>
+    <string name="textBallHunt">Love</string>
+    <string name="textMyPokemonHunt">My Men</string>
+    <string name="textPokemonDodge">%s declines you</string>
+    <string name="textPokemonRunAway">%s wins and runs away</string>
+    <string name="textPokemonCaught">%s is in a relationship with you!</string>
+    <string name="textPokemonHunt">%s V.S. %s</string>
+    <string name="textName">User Name</string>
+    <string name="textPasssword">Password</string>
+    <string name="textLogin">Login</string>
+    <string name="tvWords">There are 4 cute guys in front of you!</string>
+</resources>

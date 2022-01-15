@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">追愛大作戰</string>
+    <string name="textNoPokemon">沒有男人</string>
+    <string name="textMyPokemons">我的男人</string>
+    <string name="textBallHunt">追求</string>
+    <string name="textMyPokemonHunt">我的男人</string>
+    <string name="textPokemonDodge">%s 閃過了</string>
+    <string name="textPokemonRunAway">%s 又被打槍了QQ</string>
+    <string name="textPokemonCaught">%s 熱戀中~ </string>
+    <string name="textName">使用者名稱</string>
+    <string name="textPasssword">密碼</string>
+    <string name="textLogin">Login</string>
+</resources>
